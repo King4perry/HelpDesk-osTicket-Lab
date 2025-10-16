@@ -45,13 +45,13 @@ Departments, SLAs, and help topics were configured to simulate an enterprise IT 
 ---
 
 ### 3. Troubleshooting a Password Reset Issue
-Ticket created for a user locked out after a password expiration.
+Ticket created for a user locked out.
 
 **Before Fix:**
-![Ticket Before Fix](screenshots/Ticket001_Before_Fix.png)
+![Ticket Before Fix]
 
 **After Fix:**
-![Ticket After Fix](screenshots/Ticket001_After_Fix.png)
+![Ticket After Fix]
 
 ---
 
